@@ -1,0 +1,11 @@
+{
+    "arr": [1, 2, 3],
+    "flag": true,
+    "name": "tensaye",
+    "object": {
+        "nestedObject": {
+            "childObject": { "key": "key", "title": "dev" },
+            "siblingObject": { "key": "key" }
+        }
+    }
+}

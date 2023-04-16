@@ -1,0 +1,13 @@
+{
+  "name": "json-nerd",
+  "version": "0.0.1",
+  "description": "Automatic tool for manipulating json files.",
+  "main": "index.mjs",
+  "scripts": {},
+  "keywords": [],
+  "author": "Tensaye Yuan",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  }
+}
